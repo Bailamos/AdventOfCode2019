@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40cf51d9-b386-4324-a807-c777ab8e941a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input_ex1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input_ex2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/AdventOfCode2019/Puzzle2Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Library.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/AdventOfCode2019/LibrarySuite.scala" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#162#224#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/AdventOfCode2019/Puzzle2Test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/input_ex1" />
+        <option value="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Library.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle1.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/input_ex2" />
+        <option value="$PROJECT_DIR$/src/test/scala/AdventOfCode2019/Puzzle2Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle2.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="794" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="AdventOfCode2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode2019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="AdventOfCode2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588942785431" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FunSuite" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="AdventOfCode2019" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Puzzle2">
+    <configuration name="Puzzle1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode2019.Puzzle1" />
+      <module name="AdventOfCode2019.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdventOfCode2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puzzle2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode2019.Puzzle2" />
+      <module name="AdventOfCode2019.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdventOfCode2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puzzle2Test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="AdventOfCode2019.test" />
+      <setting name="path" value="AdventOfCode2019.Puzzle2Test" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="AdventOfCode2019.Puzzle2Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Puzzle2" />
+        <item itemvalue="ScalaTest.Puzzle2Test" />
+        <item itemvalue="Application.Puzzle1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Learning/Big Data Analysis with Scala and Spark/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Big Data Analysis with Scala and Spark/stackoverflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Big Data Analysis with Scala and Spark/stackoverflow_new" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Big Data Analysis with Scala and Spark/timeusage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Big Data Analysis with Scala and Spark/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional Program Desing in Scala/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional Program Desing in Scala/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional Program Desing in Scala/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional Program Desing in Scala/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional principles in Scala/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Functional principles in Scala/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Parallel programming in Scala/barneshut" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Parallel programming in Scala/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Parallel programming in Scala/kmeans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Parallel programming in Scala/reductions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Parallel programming in Scala/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Programming Reactive Systems/async" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/Programming Reactive Systems/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Learning/epfl/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../data.academyjan2019g.classificationapi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Self Learning/Advent of Code/AdventOfCodeEx1to10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Spark/Spark streaming/sparkStructuredStreaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/patmat" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cf51d9-b386-4324-a807-c777ab8e941a" name="Default Changelist" comment="" />
+      <created>1588938944145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588938944145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 33m 35s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 33m 45s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 34m 09s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 36m 34s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 37m 34s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 45m 44s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Puzzle2Test - 2020.05.08 at 14h 49m 58s.xml">
+      <configuration name="Puzzle2Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="794" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.32905984" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Panda Executor" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Panda" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input_ex1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/AdventOfCode2019/Puzzle1Suite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input_ex2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="424" selection-start-column="424" selection-end-column="424" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/AdventOfCode2019/Puzzle2Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AdventOfCode2019/Puzzle2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#162#224#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
