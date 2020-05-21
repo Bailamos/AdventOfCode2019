@@ -20,14 +20,14 @@ object Puzzle6 extends App {
   val part1Result = getOrbitsCount(system)
   println(part1Result)
 
-  val part2Result = getAllOrbitalTransfersDistancesBetween("YOU", "SAN", system).flatten.min
+  val part2Result = getAllOrbitalTransfersDistances("YOU", "SAN", system).flatten.min
   println(part2Result)
 
-  def getAllOrbitalTransfersDistancesBetween(from: String, to: String, system: System): List[Option[Int]] = {
+  def getAllOrbitalTransfersDistances(from: String, to: String, system: System): List[Option[Int]] = {
     val distanceFromCurrentSystem = getOrbitalTransferDistanceThroughSystem(from, to , system)
     val distancesFromSubSystems = for {
       satellite <- system.satellites
-      subSystemDistances <- getAllOrbitalTransfersDistancesBetween(from, to, satellite)
+      subSystemDistances <- getAllOrbitalTransfersDistances(from, to, satellite)
     } yield subSystemDistances
 
     List(distanceFromCurrentSystem) ++ distancesFromSubSystems
