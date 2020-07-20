@@ -155,22 +155,22 @@ object Puzzle7 extends App {
 
   val program = input.map(_.toInt).toList
 
-//  val part1Results = for {
-//    set1 <- 0 to 4; set2 <- 0 to 4; set3 <- 0 to 4; set4 <- 0 to 4; set5 <- 0 to 4
-//    phaseSettings = List(set1, set2, set3, set4, set5)
-//    if phaseSettings.distinct.length == 5
-//    circuit = Circuit(
-//      List(
-//        Amplifier(set1, program),
-//        Amplifier(set2, program),
-//        Amplifier(set3, program),
-//        Amplifier(set4, program),
-//        Amplifier(set5, program)
-//      )
-//    )
-//  } yield runCircuit(circuit)
-//
-//  println(part1Results.max)
+  val part1Results = for {
+    set1 <- 0 to 4; set2 <- 0 to 4; set3 <- 0 to 4; set4 <- 0 to 4; set5 <- 0 to 4
+    phaseSettings = List(set1, set2, set3, set4, set5)
+    if phaseSettings.distinct.length == 5
+    circuit = Circuit(
+      List(
+        Amplifier(set1, program),
+        Amplifier(set2, program),
+        Amplifier(set3, program),
+        Amplifier(set4, program),
+        Amplifier(set5, program)
+      )
+    )
+  } yield runCircuit(circuit)
+
+  println(part1Results.max)
 
   val part2Results = for {
     set1 <- 5 to 9; set2 <- 5 to 9; set3 <- 5 to 9; set4 <- 5 to 9; set5 <- 5 to 9
