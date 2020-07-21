@@ -13,7 +13,7 @@ object Puzzle8 extends App {
   val layers = input.grouped(LAYER_LENGTH).toList
 
   val sorted = layers.sortBy { layer => layer.count(_ == '0') }
-  val result = sorted.head.map(_.toInt).count(_ == '1') * sorted.head.map(_.toInt).count(_ == '2')=
+  val result = sorted.head.map(_.toInt).count(_ == '1') * sorted.head.map(_.toInt).count(_ == '2')
   println(result)
 
   val image = layers.tail.foldLeft(layers.head) { (layer1, layer2) =>
